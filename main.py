@@ -812,7 +812,8 @@ class MainWindow(QWidget):
         ):
 
             remote_name = (
-                self.remote_combo.currentText()
+                #self.remote_combo.currentText()
+                destination
             )
 
             if remote_name:

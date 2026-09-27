@@ -4,7 +4,7 @@
     "local_target": false,
     "destination": "/home/alpaslan/İndirilenler/",
     "remote": "Google_Drive:",
-    "remote_path": "",
+    "remote_path": "İndirilenler",
     "transfers": 8,
     "checkers": 16,
     "local_source": true,
